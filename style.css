@@ -1,0 +1,17 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div{
+    background-color: rgb(26, 26, 26);
+}
+
+div h1{
+    color: whitesmoke;
+}
+
+div button{
+    background-color: rgb(27, 27, 255);
+    color: whitesmoke;
+    padding: 5px 40px;
+}
